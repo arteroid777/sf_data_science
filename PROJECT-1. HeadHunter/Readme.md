@@ -10,9 +10,9 @@
 
 ## Данные
 Файл с данными слишком большой для GitHub. Скачайте его по ссылке:
-[Скачать данные с Google Диска](ваша_ссылка_здесь)
+[Скачать данные с Google Диска] https://colab.research.google.com/drive/1RRg_6MXEM8C-TljGA_JDEqL-QrcFLe_c?usp=sharing
 
 После скачивания поместите файл в папку `data/` в корне проекта.
 
 ## Использование
-Запустите Jupyter Notebook: `jupyter notebook analysis.ipynb`
+Запустите Jupyter Notebook:Project-1._Ноутбук-шаблон.ipynb
