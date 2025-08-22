@@ -9,7 +9,7 @@
   
 ## Данные
 Файл с данными слишком большой для GitHub. Скачайте его по ссылке:
-[Скачать данные с Google Диска] https://colab.research.google.com/drive/1RRg_6MXEM8C-TljGA_JDEqL-QrcFLe_c?usp=sharing
+[Скачать данные с Google Диска] https://drive.google.com/drive/folders/1QdXH2U5xgj4a-n95-wN_KeDfPmDQRCdL?usp=sharing
 
 
 
